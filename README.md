@@ -2,8 +2,8 @@
 
 ## Overview of Project
 
-### Determine whether plays in the [Kickstarter_Challenge.xlsx](https://github.com/nabernal/Kickstarter-Challenge/files/9581215/Kickstarter_Challenge.xlsx)
-were successful or unsuccessful at meeting their funding goals. Tables and charts were created to provide a visual of play outcomes based on funding goals and launch dates. The information in these worksheets will help Louise learn how fundraising for her play *Fever* did compared to other plays.
+### Determine whether plays in the KickStarter file were successful or unsuccessful at meeting their funding goals. Tables and charts were created to provide a visual of play outcomes based on funding goals and launch dates. The information in these worksheets will help Louise learn how fundraising for her play *Fever* did compared to other plays.
+[Kickstarter_Challenge.xlsx](https://github.com/nabernal/Kickstarter-Challenge/files/9581215/Kickstarter_Challenge.xlsx)
 
 ## Analysis and Challenges
 
